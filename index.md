@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+BECLEVER APP
 
-You can use the [editor on GitHub](https://github.com/alexandrGladevt/BECLEVER/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+PRIVACY POLICY
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The confidentiality of the app is guaranteed by the developer and verified by the store from which the app was downloaded.
 
-### Markdown
+The application has a built-in voting feature, which uses only THE NUMBER of this device-application for identification WHICH IS SENT AND STORED ONLY IN THE GOOGLE FIREBASE DATABASE. The application does not use any other identification data as well as personal information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+IF YOU DO NOT AGREE WITH THIS SIMPLY DO NOT USE THIS APP.
 
-```markdown
-Syntax highlighted code block
+BECLEVER app receives the application number from the system something like this: a3cb5NFfx6d31ad0 and send it to Google Firebase database. Sometimes this number is being changed itself. When this happens, the application updates the record in the Google Firebase database. This ensures the relevance of the number of users of the application as well as the number of users who voted for the adoption of the law prohibiting hidden advertising of malicious goods and on other topics. The developer believes that it is completely safe for the user.
 
-# Header 1
-## Header 2
-### Header 3
+code_
 
-- Bulleted
-- List
+deviceID = Settings.Secure.getString(getApplicationContext() .getContentResolver(), Settings.Secure.ANDROID_ID);
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexandrGladevt/BECLEVER/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contacts: FilmsDataFromSam@gmail.com
